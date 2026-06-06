@@ -1,0 +1,29 @@
+# Next.js ignores
+.next/
+out/
+
+# Node.js ignores
+node_modules/
+
+# Python/Django ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.DS_Store
+
+# Editor ignores
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
