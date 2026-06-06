@@ -1,0 +1,5 @@
+.venv\Scripts\Activate
+
+python manage.py startapp accounts apps/accounts
+
+python manage.py migrate
